@@ -1,7 +1,11 @@
 # 目的、条件与泛性质：亚里士多德幸福论的一个局部重构
 
-Math4PHIL 阶段研究报告 · v0.1.9  
-2026-10-28
+研究构想：Adjoint Functor  
+建模与实验辅助、文稿撰写：GPT 6 Astra、GPT 6.1 Sol
+
+Math4PHIL 阶段研究报告 · v0.1.9 · 2026-10-28
+
+[原创论述与图示：CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) · [原典及衍生材料：CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [许可详情](NOTICE.md)
 
 [PDF 下载](downloads/Math4PHIL-aristotle-purpose-v0.1.9.pdf?raw=1) · [原文证据索引](evidence.md) · [完整证据包](downloads/Math4PHIL-aristotle-purpose-evidence-v0.1.9.zip?raw=1)
 
