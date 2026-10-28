@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "如引用本次报告，请使用以下题名、版本与来源。"
+title: Math4PHIL
+authors:
+  - name: adjoint-functor
+url: "https://github.com/adjoint-functor/Math4PHIL"
+preferred-citation:
+  type: report
+  title: "目的、条件与泛性质：亚里士多德幸福论的一个局部重构"
+  authors:
+    - name: adjoint-functor
+  version: "0.1.9"
+  date-released: 2026-10-28
+  url: "https://github.com/adjoint-functor/Math4PHIL/tree/main/reports/aristotle-purpose"
